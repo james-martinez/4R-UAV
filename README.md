@@ -17,8 +17,6 @@ Our first design used the Arduino programming enviroment. This version uses WinA
 * 4 brushless motors with speed controllers
 
 
-.
-
 engineering.utsa.edu
 
 ece.utsa.edu
