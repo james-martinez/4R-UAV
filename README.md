@@ -1,7 +1,11 @@
-quadcopter-atmega2560
-=====================
+## quadcopter-atmega2560
+
+
+
 
 Original work by 
-*Juan Tafoya
-*Jonathan Rodriguez
-*James Martinez
+* Juan Tafoya
+* Jonathan Rodriguez
+* James Martinez
+
+engineering.utsa.edu
