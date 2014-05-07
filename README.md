@@ -7,7 +7,7 @@ Original work by
 * Jonathan Rodriguez
 * James Martinez
 
-Our first design used the Arduino programming enviroment. This version uses avr-gcc.
+Our first design used the Arduino programming enviroment. This version uses WinAVR that includes avr-gcc and utilites.
 
 engineering.utsa.edu
 
