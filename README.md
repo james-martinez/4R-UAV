@@ -1,5 +1,4 @@
-## quadcopter-atmega2560
-
+## quadcopter-atmega1280
 
 
 
