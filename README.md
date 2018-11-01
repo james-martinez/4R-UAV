@@ -1,4 +1,4 @@
-# 4R-UAV
+# Team Name - 4R-UAV
 
 Original work by 
 * Juan Tafoya
@@ -9,11 +9,11 @@ Our first design used the Arduino programming enviroment. This version uses WinA
 
 ## Hardware
 * Seeeduino Mega v1.1 - ATMEGA1280 @ 16MHz
-* Accelerometer -
-* Gyro -
-* GPS -
-* Ultrasonic proximity sensor -
-* ISM Band wireless communication -
+* Accelerometer - Anglog Devices ADXL335
+* Gyro - Invensense IDG500
+* GPS - UBLOX NEO‑5Q
+* Ultrasonic proximity sensor - HC-SR04 
+* ISM Band wireless communication - Analog Devices ADF7020
 * 4 brushless motors with speed controllers
 
 
