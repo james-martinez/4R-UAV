@@ -16,7 +16,8 @@ Our first design used the Arduino programming enviroment. This version uses WinA
 * ISM Band wireless communication - Analog Devices ADF7020
 * 4 brushless motors with speed controllers
 
+http://aux.coe.utsa.edu/~eesenior/fall2010/Team05/
 
-engineering.utsa.edu
+http://engineering.utsa.edu
 
-ece.utsa.edu
+http://ece.utsa.edu
